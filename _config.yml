@@ -75,6 +75,8 @@ nav:
     url: "/work-with-me/"
   - title: "Media & Recognition"
     url: "/media/"
+  - title: "Field Notes"
+    url: "/ideas/field-notes/"
 
 # Author
 author:
