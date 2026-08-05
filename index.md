@@ -45,11 +45,11 @@ description: "From bench chemistry to the open sea — and now to battery-grade 
       <h2>The commercialization gap</h2>
       <p>If there is one idea that connects everything in this dossier, it is the distance between a technology that works in a laboratory and a product that survives in a market. My work is a sustained, hands-on investigation of that gap — not as a metaphor, but as a set of coupled, concrete barriers.</p>
     </div>
-    <div class="card-grid">
+      <div class="card-grid">
       <div class="card">
         <div class="card-meta">Barrier 01</div>
-        <h3>Feedstock</h3>
-        <p>Securing a reliable, affordable input stream — often from residues nobody else wanted. I have scaled multi-phase processing systems for more than ten heterogeneous residue feedstocks from a few kilograms per hour to industrial demonstration scale.</p>
+        <h3>Product development</h3>
+        <p>Designing, building, and scaling the hardware and process systems that turn a laboratory proof into a repeatable industrial product. From bench-scale reactors to containerised pilot plants to full commercial facilities.</p>
       </div>
       <div class="card">
         <div class="card-meta">Barrier 02</div>
@@ -62,6 +62,17 @@ description: "From bench chemistry to the open sea — and now to battery-grade 
         <p>Meeting the standards that turn a product into a tradable, trusted commodity. ISO 8217 marine fuel, European Biochar Certificate, Puro.earth carbon removal, ISCC EU, RED II/III lifecycle rules.</p>
       </div>
       <div class="card">
+        <div class="card-meta">Barrier 04</div>
+        <h3>First-of-a-kind deployment</h3>
+        <p>Getting a real customer to run the technology at real scale, with all the risk that entails. The world's first carbon-negative commercial vessel voyage, powered by fuel made from cashew-shell residue.</p>
+      </div>
+      <div class="card">
+        <div class="card-meta">Barrier 05</div>
+        <h3>FOAK lab and facility development</h3>
+        <p>Building the physical infrastructure — labs, pilot halls, testing rigs, and production facilities — that a first-of-a-kind technology needs before it can prove itself. Designing for the constraints of where the technology must actually run, not where it was born.</p>
+      </div>
+    </div>
+    <div class="card">
         <div class="card-meta">Barrier 04</div>
         <h3>First-of-a-kind deployment</h3>
         <p>Getting a real customer to run the technology at real scale, with all the risk that entails. The world's first carbon-negative commercial vessel voyage, powered by fuel made from cashew-shell residue.</p>
