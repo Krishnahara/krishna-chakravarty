@@ -6,11 +6,18 @@ description: "From bench chemistry to the open sea — and now to battery-grade 
 
 <section class="hero">
   <div class="container">
-    <p class="hero-tag">Practitioner-scholar</p>
-    <h1>From bench chemistry to the open sea</h1>
-    <p class="hero-lead">
-      I work at the point where science becomes industry. For fourteen years I have turned laboratory science into industrial ventures — and I now study and teach how that crossing is made. My current research turns thermochemical expertise toward one of the decade's most strategically urgent materials problems: battery-grade hard carbon for sodium-ion energy storage, made from European biomass residues.
-    </p>
+    <div class="hero-layout">
+      <div class="hero-text">
+        <p class="hero-tag">Practitioner-scholar</p>
+        <h1>From bench chemistry to the open sea</h1>
+        <p class="hero-lead">
+          I work at the point where science becomes industry. For fourteen years I have turned laboratory science into industrial ventures — and I now study and teach how that crossing is made. My current research turns thermochemical expertise toward one of the decade's most strategically urgent materials problems: battery-grade hard carbon for sodium-ion energy storage, made from European biomass residues.
+        </p>
+      </div>
+      <div class="hero-photo">
+        <img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Krishna Hara Chakravarty">
+      </div>
+    </div>
     <div class="hero-stats">
       <div>
         <div class="stat-number">~14</div>
@@ -78,7 +85,7 @@ description: "From bench chemistry to the open sea — and now to battery-grade 
       <div class="card">
         <div class="card-meta">The Research</div>
         <h3>Hard carbon &amp; thermochemistry</h3>
-        <p>From pyrolysis kinetics to battery-grade anode materials. A research record spanning thermochemical conversion, energy systems, geoscience, and applied AI — now focused on sodium-ion battery anodes.</p>
+        <p>From pyrolysis kinetics to battery-grade anode materials. A research record spanning thermochemical conversion, energy systems, geoscience, and applied AI.</p>
         <a href="{{ '/research/themes/' | relative_url }}" class="card-link">Explore research &rarr;</a>
       </div>
       <div class="card">
