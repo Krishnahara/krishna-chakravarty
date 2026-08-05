@@ -15,7 +15,7 @@ description: "From bench chemistry to the open sea — and now to battery-grade 
         </p>
       </div>
       <div class="hero-photo">
-        <img src="{{ '/assets/images/portrait.jpg' | relative_url }}" alt="Krishna Hara Chakravarty">
+        <img src="{{ '/assets/images/krishna.jpg' | relative_url }}" alt="Krishna Hara Chakravarty">
       </div>
     </div>
     <div class="hero-stats">
