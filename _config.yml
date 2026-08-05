@@ -1,0 +1,91 @@
+# Site settings
+title: "Krishna Hara Chakravarty, PhD"
+description: "Practitioner-scholar in deep-tech entrepreneurship, thermochemical engineering, and carbon materials."
+url: "https://krishnahara.github.io"
+baseurl: "/krishna-chakravarty"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  ventures:
+    output: true
+    permalink: /:collection/:name/
+  research:
+    output: true
+    permalink: /:collection/:name/
+  ideas:
+    output: true
+    permalink: /:collection/:name/
+  results:
+    output: true
+    permalink: /:collection/:name/
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "ventures"
+    values:
+      layout: "page"
+      section: "Ventures"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "page"
+      section: "Research"
+  - scope:
+      path: ""
+      type: "ideas"
+    values:
+      layout: "page"
+      section: "Ideas"
+  - scope:
+      path: ""
+      type: "results"
+    values:
+      layout: "page"
+      section: "Results"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Navigation
+nav:
+  - title: "Profile"
+    url: "/about/"
+  - title: "The Venture"
+    url: "/ventures/mash-makes/"
+  - title: "Research"
+    url: "/research/themes/"
+  - title: "Ideas"
+    url: "/ideas/commercialization-gap/"
+  - title: "Results"
+    url: "/results/marine-biofuel/"
+  - title: "Work With Me"
+    url: "/work-with-me/"
+  - title: "Media & Recognition"
+    url: "/media/"
+
+# Author
+author:
+  name: "Krishna Hara Chakravarty"
+  email: ""
+  orcid: "0000-0002-7937-2135"
+  linkedin: "krich2"
+  scholar: "iuxCSooAAAAJ"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
